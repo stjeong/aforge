@@ -1,0 +1,6 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Math.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Math.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Math.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Math\obj\Debug\AForge.Math.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Math\obj\Debug\AForge.Math.pdb

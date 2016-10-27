@@ -1,0 +1,6 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Genetic.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Genetic.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Genetic.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Genetic\obj\Debug\AForge.Genetic.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Genetic\obj\Debug\AForge.Genetic.pdb

@@ -1,0 +1,6 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Neuro.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Neuro.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Neuro.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Neuro\obj\Debug\Neuro.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Neuro\obj\Debug\AForge.Neuro.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Neuro\obj\Debug\AForge.Neuro.pdb

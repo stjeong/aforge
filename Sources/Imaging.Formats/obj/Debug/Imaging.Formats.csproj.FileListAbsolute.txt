@@ -1,0 +1,6 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Imaging.Formats.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Imaging.Formats.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Imaging.Formats.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Imaging.Formats\obj\Debug\Imaging.Formats.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Imaging.Formats\obj\Debug\AForge.Imaging.Formats.pdb

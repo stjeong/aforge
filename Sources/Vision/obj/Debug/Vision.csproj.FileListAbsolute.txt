@@ -1,0 +1,6 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Vision.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Vision.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Vision.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Vision\obj\Debug\Vision.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Vision\obj\Debug\AForge.Vision.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Vision\obj\Debug\AForge.Vision.pdb

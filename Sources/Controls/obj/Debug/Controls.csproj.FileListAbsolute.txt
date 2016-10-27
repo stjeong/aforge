@@ -1,0 +1,14 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Controls.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Controls.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Controls.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.Chart.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.HistogramEventArgs.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.VideoSourcePlayer.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.HuePicker.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.SliderControl.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.ColorSlider.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.ManipulatorControl.resources
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Controls\obj\Debug\AForge.Controls.pdb

@@ -1,0 +1,6 @@
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.pdb
+C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.xml
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video\obj\Debug\Video.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video\obj\Debug\AForge.Video.dll
+C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video\obj\Debug\AForge.Video.pdb
