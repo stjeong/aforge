@@ -1,6 +1,6 @@
 <?xml version="1.0"?><doc>
 <members>
-<member name="T:AForge.Video.FFMPEG.VideoFileSource" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="19">
+<member name="T:AForge.Video.FFMPEG.VideoFileSource" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="19">
 <summary>
 Video source for video files.
 </summary>
@@ -38,7 +38,7 @@ private void video_NewFrame( object sender, NewFrameEventArgs eventArgs )
 </remarks>
 
 </member>
-<member name="E:AForge.Video.FFMPEG.VideoFileSource.NewFrame" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="59">
+<member name="E:AForge.Video.FFMPEG.VideoFileSource.NewFrame" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="59">
 <summary>
 New frame event.
 </summary>
@@ -51,7 +51,7 @@ own original copy after notifying of clients.</note></para>
 </remarks>
 
 </member>
-<member name="E:AForge.Video.FFMPEG.VideoFileSource.VideoSourceError" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="72">
+<member name="E:AForge.Video.FFMPEG.VideoFileSource.VideoSourceError" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="72">
 <summary>
 Video source error event.
 </summary>
@@ -60,7 +60,7 @@ Video source error event.
 video source object, for example internal exceptions.</remarks>
 
 </member>
-<member name="E:AForge.Video.FFMPEG.VideoFileSource.PlayingFinished" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="81">
+<member name="E:AForge.Video.FFMPEG.VideoFileSource.PlayingFinished" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="81">
 <summary>
 Video playing finished event.
 </summary>
@@ -69,7 +69,7 @@ Video playing finished event.
 </remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileSource.Source" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="90">
+<member name="P:AForge.Video.FFMPEG.VideoFileSource.Source" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="90">
 <summary>
 Video source.
 </summary>
@@ -77,7 +77,7 @@ Video source.
 <remarks><para>Video file name to play.</para></remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileSource.FramesReceived" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="108">
+<member name="P:AForge.Video.FFMPEG.VideoFileSource.FramesReceived" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="108">
 <summary>
 Received frames count.
 </summary>
@@ -87,7 +87,7 @@ access to the property.
 </remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileSource.BytesReceived" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="126">
+<member name="P:AForge.Video.FFMPEG.VideoFileSource.BytesReceived" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="126">
 <summary>
 Received bytes count.
 </summary>
@@ -97,7 +97,7 @@ access to the property.
 </remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileSource.IsRunning" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="142">
+<member name="P:AForge.Video.FFMPEG.VideoFileSource.IsRunning" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="142">
 <summary>
 State of the video source.
 </summary>
@@ -105,7 +105,7 @@ State of the video source.
 <remarks>Current state of video source object - running or not.</remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileSource.FrameInterval" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="164">
+<member name="P:AForge.Video.FFMPEG.VideoFileSource.FrameInterval" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="164">
 <summary>
 Frame interval.
 </summary>
@@ -123,7 +123,7 @@ is set to <see langword="false"/>.</note></para>
 </remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileSource.FrameIntervalFromSource" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="192">
+<member name="P:AForge.Video.FFMPEG.VideoFileSource.FrameIntervalFromSource" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="192">
 <summary>
 Get frame interval from source or use manually specified.
 </summary>
@@ -138,13 +138,13 @@ calculated based on the manually specified <see cref="P:AForge.Video.FFMPEG.Vide
 </remarks>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileSource.#ctor(System.String)" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="219">
+<member name="M:AForge.Video.FFMPEG.VideoFileSource.#ctor(System.String)" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="219">
 <summary>
 Initializes a new instance of the <see cref="T:AForge.Video.FFMPEG.VideoFileSource"/> class.
 </summary>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileSource.Start" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="225">
+<member name="M:AForge.Video.FFMPEG.VideoFileSource.Start" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="225">
 <summary>
 Start video source.
 </summary>
@@ -156,7 +156,7 @@ help of <see cref="E:AForge.Video.FFMPEG.VideoFileSource.NewFrame"/> event.</rem
 <exception cref="T:System.ArgumentException">Video source is not specified.</exception>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileSource.SignalToStop" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="237">
+<member name="M:AForge.Video.FFMPEG.VideoFileSource.SignalToStop" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="237">
 <summary>
 Signal video source to stop its work.
 </summary>
@@ -165,7 +165,7 @@ Signal video source to stop its work.
 provide new frames and free resources.</remarks>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileSource.WaitForStop" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="246">
+<member name="M:AForge.Video.FFMPEG.VideoFileSource.WaitForStop" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="246">
 <summary>
 Wait for video source has stopped.
 </summary>
@@ -174,7 +174,7 @@ Wait for video source has stopped.
 <see cref="M:AForge.Video.FFMPEG.VideoFileSource.SignalToStop"/> method.</remarks>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileSource.Stop" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilesource.h" line="255">
+<member name="M:AForge.Video.FFMPEG.VideoFileSource.Stop" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilesource.h" line="255">
 <summary>
 Stop video source.
 </summary>
@@ -188,7 +188,7 @@ is <see cref="M:AForge.Video.FFMPEG.VideoFileSource.SignalToStop">signaling it s
 </remarks>
 
 </member>
-<member name="T:AForge.Video.FFMPEG.VideoFileReader" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="20">
+<member name="T:AForge.Video.FFMPEG.VideoFileReader" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="20">
 <summary>
 Class for reading video files utilizing FFmpeg library.
 </summary>
@@ -225,7 +225,7 @@ reader.Close( );
 </remarks>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileReader.Width" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="59">
+<member name="P:AForge.Video.FFMPEG.VideoFileReader.Width" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="59">
 <summary>
 Frame width of the opened video file.
 </summary>
@@ -233,7 +233,7 @@ Frame width of the opened video file.
 <exception cref="T:System.IO.IOException">Thrown if no video file was open.</exception>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileReader.Height" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="74">
+<member name="P:AForge.Video.FFMPEG.VideoFileReader.Height" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="74">
 <summary>
 Frame height of the opened video file.
 </summary>
@@ -241,7 +241,7 @@ Frame height of the opened video file.
 <exception cref="T:System.IO.IOException">Thrown if no video file was open.</exception>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileReader.FrameRate" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="89">
+<member name="P:AForge.Video.FFMPEG.VideoFileReader.FrameRate" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="89">
 <summary>
 Frame rate of the opened video file.
 </summary>
@@ -249,7 +249,7 @@ Frame rate of the opened video file.
 <exception cref="T:System.IO.IOException">Thrown if no video file was open.</exception>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileReader.FrameCount" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="104">
+<member name="P:AForge.Video.FFMPEG.VideoFileReader.FrameCount" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="104">
 <summary>
 Number of video frames in the opened video file.
 </summary>
@@ -261,7 +261,7 @@ from the actual number of video frames in the file (subject to fix/investigate).
 <exception cref="T:System.IO.IOException">Thrown if no video file was open.</exception>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileReader.CodecName" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="123">
+<member name="P:AForge.Video.FFMPEG.VideoFileReader.CodecName" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="123">
 <summary>
 Name of codec used for encoding the opened video file.
 </summary>
@@ -269,30 +269,30 @@ Name of codec used for encoding the opened video file.
 <exception cref="T:System.IO.IOException">Thrown if no video file was open.</exception>
 
 </member>
-<member name="P:AForge.Video.FFMPEG.VideoFileReader.IsOpen" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="138">
+<member name="P:AForge.Video.FFMPEG.VideoFileReader.IsOpen" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="138">
 <summary>
 The property specifies if a video file is opened or not by this instance of the class.
 </summary>
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileReader.Finalize" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="151">
+<member name="M:AForge.Video.FFMPEG.VideoFileReader.Finalize" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="151">
 <summary>
 Object's finalizer.
 </summary>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileReader.#ctor" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="162">
+<member name="M:AForge.Video.FFMPEG.VideoFileReader.#ctor" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="162">
 <summary>
 Initializes a new instance of the <see cref="T:AForge.Video.FFMPEG.VideoFileReader"/> class.
 </summary>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileReader.Dispose" decl="false" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="168">
+<member name="M:AForge.Video.FFMPEG.VideoFileReader.Dispose" decl="false" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="168">
 <summary>
 Disposes the object and frees its resources.
 </summary>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileReader.Open(System.String)" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="178">
+<member name="M:AForge.Video.FFMPEG.VideoFileReader.Open(System.String)" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="178">
 <summary>
 Open video file with the specified name.
 </summary>
@@ -303,7 +303,7 @@ Open video file with the specified name.
 <exception cref="T:AForge.Video.VideoException">A error occurred while opening the video file. See exception message.</exception>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileReader.ReadVideoFrame" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="189">
+<member name="M:AForge.Video.FFMPEG.VideoFileReader.ReadVideoFrame" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="189">
 <summary>
 Read next video frame of the currently opened video file.
 </summary>
@@ -315,7 +315,7 @@ file was reached. The returned video frame has 24 bpp color format.</returns>
 <exception cref="T:AForge.Video.VideoException">A error occurred while reading next video frame. See exception message.</exception>
 
 </member>
-<member name="M:AForge.Video.FFMPEG.VideoFileReader.Close" decl="true" source="c:\users\kevin\dropbox\articles\aforge\src\sources\video.ffmpeg\videofilereader.h" line="201">
+<member name="M:AForge.Video.FFMPEG.VideoFileReader.Close" decl="true" source="e:\aforge\sources\video.ffmpeg\videofilereader.h" line="201">
 <summary>
 Close currently opened video file if any.
 </summary>

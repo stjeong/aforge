@@ -66,9 +66,9 @@ VideoFileReader::VideoFileReader( void ) :
 #pragma managed(push, off)
 static libffmpeg::AVFormatContext* open_file( char* fileName )
 {
-	libffmpeg::AVFormatContext* formatContext;
+    libffmpeg::AVFormatContext* formatContext = libffmpeg::avformat_alloc_context();
 
-	if ( libffmpeg::av_open_input_file( &formatContext, fileName, NULL, 0, NULL ) !=0 )
+	if ( libffmpeg::avformat_open_input( &formatContext, fileName, NULL, NULL) !=0 )
 	{
 		return NULL;
 	}
@@ -107,7 +107,7 @@ void VideoFileReader::Open( String^ fileName )
 		}
 
 		// retrieve stream information
-		if ( libffmpeg::av_find_stream_info( data->FormatContext ) < 0 )
+		if ( libffmpeg::avformat_find_stream_info( data->FormatContext, NULL ) < 0 )
 		{
 			throw gcnew VideoException( "Cannot find stream information." );
 		}
@@ -136,17 +136,17 @@ void VideoFileReader::Open( String^ fileName )
 		}
 
 		// open the codec
-		if ( libffmpeg::avcodec_open( data->CodecContext, codec ) < 0 )
+		if ( libffmpeg::avcodec_open2( data->CodecContext, codec, NULL ) < 0 )
 		{
 			throw gcnew VideoException( "Cannot open video codec." );
 		}
 
 		// allocate video frame
-		data->VideoFrame = libffmpeg::avcodec_alloc_frame( );
+		data->VideoFrame = libffmpeg::av_frame_alloc( );
 
 		// prepare scaling context to convert RGB image to video format
 		data->ConvertContext = libffmpeg::sws_getContext( data->CodecContext->width, data->CodecContext->height, data->CodecContext->pix_fmt,
-				data->CodecContext->width, data->CodecContext->height, libffmpeg::PIX_FMT_BGR24,
+				data->CodecContext->width, data->CodecContext->height, libffmpeg::AV_PIX_FMT_BGR24,
 				SWS_BICUBIC, NULL, NULL, NULL );
 
 		if ( data->ConvertContext == NULL )
@@ -192,8 +192,10 @@ void VideoFileReader::Close(  )
 
 		if ( data->FormatContext != NULL )
 		{
-			libffmpeg::av_close_input_file( data->FormatContext );
-		}
+            libffmpeg::AVFormatContext *ic = data->FormatContext;
+
+			libffmpeg::avformat_close_input( &ic );
+        }
 
 		if ( data->ConvertContext != NULL )
 		{
