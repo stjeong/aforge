@@ -1,5 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.VFW.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.VFW.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.VFW.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.VFW\obj\Debug\AForge.Video.VFW.pdb

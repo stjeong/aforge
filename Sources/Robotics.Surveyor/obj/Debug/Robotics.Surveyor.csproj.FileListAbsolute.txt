@@ -1,6 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Robotics.Surveyor.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Robotics.Surveyor.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Robotics.Surveyor.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Robotics.Surveyor\obj\Debug\Robotics.Surveyor.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Robotics.Surveyor\obj\Debug\AForge.Robotics.Surveyor.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Robotics.Surveyor\obj\Debug\AForge.Robotics.Surveyor.pdb

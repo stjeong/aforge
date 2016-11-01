@@ -1,5 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.Ximea.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.Ximea.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.Ximea\obj\Debug\AForge.Video.Ximea.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.Ximea\obj\Debug\AForge.Video.Ximea.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.Ximea\obj\Debug\Video.Ximea.csprojResolveAssemblyReference.cache

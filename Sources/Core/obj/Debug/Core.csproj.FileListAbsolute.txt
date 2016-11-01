@@ -1,5 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Core\obj\Debug\AForge.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Core\obj\Debug\AForge.pdb

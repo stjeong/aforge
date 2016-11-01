@@ -1,6 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Robotics.Lego.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Robotics.Lego.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Robotics.Lego.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Robotics.Lego\obj\Debug\Lego.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Robotics.Lego\obj\Debug\AForge.Robotics.Lego.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Robotics.Lego\obj\Debug\AForge.Robotics.Lego.pdb

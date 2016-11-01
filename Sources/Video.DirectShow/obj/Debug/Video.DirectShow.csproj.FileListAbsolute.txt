@@ -1,9 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.DirectShow.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.DirectShow.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.DirectShow.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.DirectShow\obj\Debug\Video.DirectShow.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.DirectShow\obj\Debug\Video.DirectShow.csproj.GenerateResource.Cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb

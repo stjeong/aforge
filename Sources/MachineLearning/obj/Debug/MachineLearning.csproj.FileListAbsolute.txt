@@ -1,6 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.MachineLearning.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.MachineLearning.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.MachineLearning.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\MachineLearning\obj\Debug\MachineLearning.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\MachineLearning\obj\Debug\AForge.MachineLearning.pdb

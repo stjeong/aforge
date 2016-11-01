@@ -1,6 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Fuzzy.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Fuzzy.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Fuzzy.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Fuzzy\obj\Debug\Fuzzy.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Fuzzy\obj\Debug\AForge.Fuzzy.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Fuzzy\obj\Debug\AForge.Fuzzy.pdb

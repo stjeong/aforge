@@ -1,6 +1,0 @@
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.Kinect.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.Kinect.pdb
-C:\Users\kevin\Dropbox\articles\aforge\src\Release\AForge.Video.Kinect.xml
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.Kinect\obj\Debug\Video.Kinect.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.dll
-C:\Users\kevin\Dropbox\articles\aforge\src\Sources\Video.Kinect\obj\Debug\AForge.Video.Kinect.pdb
